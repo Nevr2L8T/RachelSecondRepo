@@ -1,0 +1,2 @@
+public class RenasTech2 {
+}
