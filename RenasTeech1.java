@@ -1,0 +1,2 @@
+public class RenasTeech1 {
+}
